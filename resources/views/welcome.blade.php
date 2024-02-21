@@ -30,7 +30,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Hi Noble great job</h1>
+    <h1>Hi Herald great job</h1>
     <p>Your application has been successfully deployed to Amazon EKS.</p>
     <p class="success-message">Congratulations!</p>
   </div>
